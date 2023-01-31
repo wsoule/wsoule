@@ -4,6 +4,8 @@ Hi 👋 My name is Wyat Soule
 Web Developer / Computer Science Student
 -------------
 
+I have been working on programming regularly for about 2 years. I have worked on many projects throughout that time to expand my knowledge, and I am constantly trying to find new ways to expand my knowledge.
+
 * 🌍  I'm based in Lansing, MI
 * ✉️  You can contact me at [wsoule679@pm.me](mailto:wsoule679@pm.me)
 * 🧠  I'm learning Typescript, React, and Angular
@@ -33,10 +35,3 @@ Web Developer / Computer Science Student
 
 <a href="https://github.com/wsoule" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsoule&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/wsoule/clicker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wsoule&repo=clicker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/wsoule/game-list" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wsoule&repo=game-list&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/wsoule/beta-bot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wsoule&repo=beta-bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/wsoule/budget-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wsoule&repo=budget-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
