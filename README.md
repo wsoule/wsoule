@@ -32,7 +32,10 @@ I have been working on programming regularly for about 2 years. I have worked on
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/wsoule"><img src="https://github-readme-stats.vercel.app/api?username=wsoule&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wsoule's GitHub stats" /></a>
+[![Wyat's Github Stats](https://github-readme-stats.vercel.app/api?username=wsoule&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/wsoule/github-readme-stats#gh-dark-mode-only)
 
-<a href="https://github.com/wsoule" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsoule&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Wyat's Github Stats](https://github-readme-stats.vercel.app/api?username=wsoule&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/wsoule/github-readme-stats#gh-light-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsoule&layout=compact&custom_title=Top%20%Languages&theme=tokyonight#gh-dark-mode-only&layout=compact)](https://github.com/wsoule/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsoule&layout=compact&custom_title=Top%20%Languages&theme=buefy#gh-light-mode-only)](https://github.com/wsoule/github-readme-stats#gh-light-mode-only)
