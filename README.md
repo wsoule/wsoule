@@ -9,6 +9,7 @@ I have been working on programming regularly for about 2 years. I have worked on
 * 🌍  I'm based in Lansing, MI
 * ✉️  You can contact me at [wsoule679@pm.me](mailto:wsoule679@pm.me)
 * 🧠  I'm learning Typescript, React, and Angular
+* ⚡  In adition to my programming projects, I am trying to create a machine that uses c++ and mechanisms to knight me with my sword
 
 ### Skills
 
