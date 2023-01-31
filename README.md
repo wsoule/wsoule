@@ -1,7 +1,7 @@
 Hi 👋 My name is Wyat Soule
 ===========================
 
-Web Developer
+Web Developer / Computer Science Student
 -------------
 
 * 🌍  I'm based in Lansing, MI
