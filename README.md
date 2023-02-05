@@ -1,4 +1,4 @@
-Hi 👋 My name is Wyat Soule
+Hi 👋 My name is Wyat
 ===========================
 
 Web Developer / Computer Science Student
