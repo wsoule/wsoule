@@ -1,4 +1,4 @@
-Hi 👋 My name is Wyat
+Hi 👋 welcome to my github!
 ===========================
 
 Web Developer / Computer Science Student
