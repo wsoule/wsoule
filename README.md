@@ -32,9 +32,9 @@ I have been working on programming regularly for about 2 years. I have worked on
 
 <b>My GitHub Stats</b>
 
-[![Wyat's Github Stats](https://github-readme-stats.vercel.app/api?username=wsoule&custom_title=Wyat's%20%Stats&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/wsoule/github-readme-stats#gh-dark-mode-only)
+<!-- [![Wyat's Github Stats](https://github-readme-stats.vercel.app/api?username=wsoule&custom_title=Wyat's%20%Stats&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/wsoule/github-readme-stats#gh-dark-mode-only)
 
-[![Wyat's Github Stats](https://github-readme-stats.vercel.app/api?username=wsoule&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/wsoule/github-readme-stats#gh-light-mode-only)
+[![Wyat's Github Stats](https://github-readme-stats.vercel.app/api?username=wsoule&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/wsoule/github-readme-stats#gh-light-mode-only) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsoule&layout=compact&custom_title=Top%20%Languages&theme=tokyonight#gh-dark-mode-only&layout=compact)](https://github.com/wsoule/github-readme-stats#gh-dark-mode-only)
 
