@@ -5,7 +5,8 @@ Full-stack engineer building tools that make peoples' lives easier.
 Currently: Software Engineer @ Waggoner Financial && Co-founder @ Brass Raven,
 
 ## What I'm working on
-- 📚 Audioparrot - helping indie authors bring their stories to your ear.
+- 📚 Audioparrot - Manuscript → Audio → Done
+
 
 ## Stack
 TypeScript • React • Node.js • Go • PostgreSQL • GraphQL
